@@ -1,5 +1,6 @@
-dist
 node_modules
 package-lock.json
 *bundle.js.LICENSE.txt
 public
+Webpack/*/dist
+Webpack/*/public
